@@ -1,0 +1,8 @@
+ML DEVELOPER
+AS A ML DEVELOPER, YOU WILL BE ABLE TO:
+Possess better skills to pre-process data
+Understand features of data
+Try multiple algorithms
+Develop machine learning pipeline
+Produce and implement accurate models
+Develop predictions from real-life data
